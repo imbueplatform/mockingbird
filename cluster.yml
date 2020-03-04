@@ -1,0 +1,4 @@
+apps:
+  - script: ./bin/mockingbird
+    instances: max
+    exec_mode: cluster
